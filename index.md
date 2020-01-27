@@ -1,7 +1,5 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+<p style="font-family:Consolas">Every atom in your body came from a star that exploded.And, the atoms in your left hand probably came from a different star than your right hand.It really is the most poetic thing I know about physics:You are all stardust.
+<p style="text-align:right; font-family:Consolas">—— Lawrence M. Krauss</p>
 
-![Image of fast.ai logo](images/logo.png)
+<h2 style="font-family:Kaiti">奕清</h2>
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
