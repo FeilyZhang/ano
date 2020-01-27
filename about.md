@@ -1,4 +1,4 @@
-<h1 style="font-family:Caslon">About me</h1>
+# About
 
 <blockquote>
 <p style="font-family:Kaiti">自在人间烟火</p>
