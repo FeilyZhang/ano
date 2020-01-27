@@ -2,4 +2,4 @@
 <p style="font-family:Consolas; text-align:center">You are all stardust.</p>
 <p style="text-align:right; font-family:Consolas">—— Lawrence M. Krauss</p>
 
-<h2 style="font-family:Consolas">Intro: Software Developer, Machine Learning, Astronomy Enthusiast</h2>
+<h4 style="font-family:Consolas">Intro: Software Developer, Machine Learning, Astronomy Enthusiast</h4>
