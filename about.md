@@ -4,6 +4,8 @@
 <p style="font-family:Kaiti">自在人间烟火</p>
 </blockquote>
 
+<p style="font-family:Consolas">This is a new blog, taking notes for some noval and valuable ideas I figure. As to technique in some areas, there's very little to talk about here. By contraries, more in-depth topics will be discussed here, such as the principles of a technology and opinions on some theories or things.</P>
+
 <p style="font-family:Consolas">All articles in this blog are original and licensed through CC by-nc-sa 3.0 CN, namely, attribution-noncommercial-sharelike 3.0 China mainland (CC by-nc-sa 3.0 CN). For more details, please click <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/cn/deed.en">here</a> and hope to abide by it, thanks. </P>
 
 <ul style="font-family:Consolas">
