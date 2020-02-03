@@ -1,6 +1,8 @@
 # Linux内核源码分析：转变！从16位实模式到32位保护模式
 
-TOC
+Here's the table of contents:
+
+1. TOC
 {:toc}
 
 ## 回顾
