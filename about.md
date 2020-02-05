@@ -1,6 +1,6 @@
 # About
 
-<p style="font-family:Kaiti, font-weight:bold">为天地立心，为生民立命，为往圣继绝学，为万世开太平</p>
+<p style="font-family:Kaiti;font-weight:bold">为天地立心，为生民立命，为往圣继绝学，为万世开太平</p>
 
 <p style="font-family:Consolas">This is a new blog, taking notes for some noval and valuable ideas I figure. As to technique in some areas, there's very little to talk about here. By contraries, more in-depth topics will be discussed here, such as the principles of a technology and opinions on some theories or things.</P>
 
